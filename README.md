@@ -3,16 +3,6 @@
 
 <br>
 
-# Project-002: NBA Legends App (RP-02)
-
-## Description
-
-Project aims to create a Languages Cards App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
 ## Project Skeleton
 
 ```
